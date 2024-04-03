@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\phamb\\Downloads\\Lab345-master\\WebsiteBanApple\\WebsiteBanApple.csproj": {}
+    "C:\\Users\\phamb\\source\\repos\\Lab56\\WebsiteBanApple\\WebsiteBanApple.csproj": {}
   },
   "projects": {
-    "C:\\Users\\phamb\\Downloads\\Lab345-master\\WebsiteBanApple\\WebsiteBanApple.csproj": {
+    "C:\\Users\\phamb\\source\\repos\\Lab56\\WebsiteBanApple\\WebsiteBanApple.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\phamb\\Downloads\\Lab345-master\\WebsiteBanApple\\WebsiteBanApple.csproj",
+        "projectUniqueName": "C:\\Users\\phamb\\source\\repos\\Lab56\\WebsiteBanApple\\WebsiteBanApple.csproj",
         "projectName": "WebsiteBanApple",
-        "projectPath": "C:\\Users\\phamb\\Downloads\\Lab345-master\\WebsiteBanApple\\WebsiteBanApple.csproj",
+        "projectPath": "C:\\Users\\phamb\\source\\repos\\Lab56\\WebsiteBanApple\\WebsiteBanApple.csproj",
         "packagesPath": "C:\\Users\\phamb\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\phamb\\Downloads\\Lab345-master\\WebsiteBanApple\\obj\\",
+        "outputPath": "C:\\Users\\phamb\\source\\repos\\Lab56\\WebsiteBanApple\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\phamb\\AppData\\Roaming\\NuGet\\NuGet.Config",

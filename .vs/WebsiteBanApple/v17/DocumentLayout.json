@@ -1,45 +1,61 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\phamb\\Downloads\\Lab345-master\\",
+  "WorkspaceRootPath": "C:\\Users\\phamb\\source\\repos\\Lab56\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7A2F2A88-EADE-4F20-8686-A4F5F2E41F8D}|WebsiteBanApple\\WebsiteBanApple.csproj|c:\\users\\phamb\\downloads\\lab345-master\\websitebanapple\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7A2F2A88-EADE-4F20-8686-A4F5F2E41F8D}|WebsiteBanApple\\WebsiteBanApple.csproj|solutionrelative:websitebanapple\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7A2F2A88-EADE-4F20-8686-A4F5F2E41F8D}|WebsiteBanApple\\WebsiteBanApple.csproj|c:\\users\\phamb\\source\\repos\\lab56\\websitebanapple\\areas\\admin\\views\\admin\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7A2F2A88-EADE-4F20-8686-A4F5F2E41F8D}|WebsiteBanApple\\WebsiteBanApple.csproj|solutionrelative:websitebanapple\\areas\\admin\\views\\admin\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7A2F2A88-EADE-4F20-8686-A4F5F2E41F8D}|WebsiteBanApple\\WebsiteBanApple.csproj|c:\\users\\phamb\\downloads\\lab345-master\\websitebanapple\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7A2F2A88-EADE-4F20-8686-A4F5F2E41F8D}|WebsiteBanApple\\WebsiteBanApple.csproj|solutionrelative:websitebanapple\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7A2F2A88-EADE-4F20-8686-A4F5F2E41F8D}|WebsiteBanApple\\WebsiteBanApple.csproj|c:\\users\\phamb\\source\\repos\\lab56\\websitebanapple\\areas\\admin\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7A2F2A88-EADE-4F20-8686-A4F5F2E41F8D}|WebsiteBanApple\\WebsiteBanApple.csproj|solutionrelative:websitebanapple\\areas\\admin\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7A2F2A88-EADE-4F20-8686-A4F5F2E41F8D}|WebsiteBanApple\\WebsiteBanApple.csproj|c:\\users\\phamb\\downloads\\lab345-master\\websitebanapple\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7A2F2A88-EADE-4F20-8686-A4F5F2E41F8D}|WebsiteBanApple\\WebsiteBanApple.csproj|solutionrelative:websitebanapple\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7A2F2A88-EADE-4F20-8686-A4F5F2E41F8D}|WebsiteBanApple\\WebsiteBanApple.csproj|c:\\users\\phamb\\downloads\\lab345-master\\websitebanapple\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{7A2F2A88-EADE-4F20-8686-A4F5F2E41F8D}|WebsiteBanApple\\WebsiteBanApple.csproj|solutionrelative:websitebanapple\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7A2F2A88-EADE-4F20-8686-A4F5F2E41F8D}|WebsiteBanApple\\WebsiteBanApple.csproj|c:\\users\\phamb\\downloads\\lab345-master\\websitebanapple\\migrations\\20240324092654_addfullnametouseridentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7A2F2A88-EADE-4F20-8686-A4F5F2E41F8D}|WebsiteBanApple\\WebsiteBanApple.csproj|solutionrelative:websitebanapple\\migrations\\20240324092654_addfullnametouseridentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7A2F2A88-EADE-4F20-8686-A4F5F2E41F8D}|WebsiteBanApple\\WebsiteBanApple.csproj|c:\\users\\phamb\\downloads\\lab345-master\\websitebanapple\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7A2F2A88-EADE-4F20-8686-A4F5F2E41F8D}|WebsiteBanApple\\WebsiteBanApple.csproj|solutionrelative:websitebanapple\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7A2F2A88-EADE-4F20-8686-A4F5F2E41F8D}|WebsiteBanApple\\WebsiteBanApple.csproj|c:\\users\\phamb\\downloads\\lab345-master\\websitebanapple\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7A2F2A88-EADE-4F20-8686-A4F5F2E41F8D}|WebsiteBanApple\\WebsiteBanApple.csproj|solutionrelative:websitebanapple\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7A2F2A88-EADE-4F20-8686-A4F5F2E41F8D}|WebsiteBanApple\\WebsiteBanApple.csproj|c:\\users\\phamb\\downloads\\lab345-master\\websitebanapple\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{7A2F2A88-EADE-4F20-8686-A4F5F2E41F8D}|WebsiteBanApple\\WebsiteBanApple.csproj|c:\\users\\phamb\\source\\repos\\lab56\\websitebanapple\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7A2F2A88-EADE-4F20-8686-A4F5F2E41F8D}|WebsiteBanApple\\WebsiteBanApple.csproj|solutionrelative:websitebanapple\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7A2F2A88-EADE-4F20-8686-A4F5F2E41F8D}|WebsiteBanApple\\WebsiteBanApple.csproj|c:\\users\\phamb\\downloads\\lab345-master\\websitebanapple\\migrations\\20240324090846_addidentitycore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7A2F2A88-EADE-4F20-8686-A4F5F2E41F8D}|WebsiteBanApple\\WebsiteBanApple.csproj|c:\\users\\phamb\\source\\repos\\lab56\\websitebanapple\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7A2F2A88-EADE-4F20-8686-A4F5F2E41F8D}|WebsiteBanApple\\WebsiteBanApple.csproj|solutionrelative:websitebanapple\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A2F2A88-EADE-4F20-8686-A4F5F2E41F8D}|WebsiteBanApple\\WebsiteBanApple.csproj|c:\\users\\phamb\\source\\repos\\lab56\\websitebanapple\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A2F2A88-EADE-4F20-8686-A4F5F2E41F8D}|WebsiteBanApple\\WebsiteBanApple.csproj|solutionrelative:websitebanapple\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A2F2A88-EADE-4F20-8686-A4F5F2E41F8D}|WebsiteBanApple\\WebsiteBanApple.csproj|c:\\users\\phamb\\source\\repos\\lab56\\websitebanapple\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7A2F2A88-EADE-4F20-8686-A4F5F2E41F8D}|WebsiteBanApple\\WebsiteBanApple.csproj|solutionrelative:websitebanapple\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A2F2A88-EADE-4F20-8686-A4F5F2E41F8D}|WebsiteBanApple\\WebsiteBanApple.csproj|c:\\users\\phamb\\source\\repos\\lab56\\websitebanapple\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A2F2A88-EADE-4F20-8686-A4F5F2E41F8D}|WebsiteBanApple\\WebsiteBanApple.csproj|solutionrelative:websitebanapple\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A2F2A88-EADE-4F20-8686-A4F5F2E41F8D}|WebsiteBanApple\\WebsiteBanApple.csproj|c:\\users\\phamb\\source\\repos\\lab56\\websitebanapple\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7A2F2A88-EADE-4F20-8686-A4F5F2E41F8D}|WebsiteBanApple\\WebsiteBanApple.csproj|solutionrelative:websitebanapple\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A2F2A88-EADE-4F20-8686-A4F5F2E41F8D}|WebsiteBanApple\\WebsiteBanApple.csproj|c:\\users\\phamb\\source\\repos\\lab56\\websitebanapple\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{7A2F2A88-EADE-4F20-8686-A4F5F2E41F8D}|WebsiteBanApple\\WebsiteBanApple.csproj|solutionrelative:websitebanapple\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A2F2A88-EADE-4F20-8686-A4F5F2E41F8D}|WebsiteBanApple\\WebsiteBanApple.csproj|c:\\users\\phamb\\source\\repos\\lab56\\websitebanapple\\migrations\\20240324092654_addfullnametouseridentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A2F2A88-EADE-4F20-8686-A4F5F2E41F8D}|WebsiteBanApple\\WebsiteBanApple.csproj|solutionrelative:websitebanapple\\migrations\\20240324092654_addfullnametouseridentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A2F2A88-EADE-4F20-8686-A4F5F2E41F8D}|WebsiteBanApple\\WebsiteBanApple.csproj|c:\\users\\phamb\\source\\repos\\lab56\\websitebanapple\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A2F2A88-EADE-4F20-8686-A4F5F2E41F8D}|WebsiteBanApple\\WebsiteBanApple.csproj|solutionrelative:websitebanapple\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A2F2A88-EADE-4F20-8686-A4F5F2E41F8D}|WebsiteBanApple\\WebsiteBanApple.csproj|c:\\users\\phamb\\source\\repos\\lab56\\websitebanapple\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A2F2A88-EADE-4F20-8686-A4F5F2E41F8D}|WebsiteBanApple\\WebsiteBanApple.csproj|solutionrelative:websitebanapple\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A2F2A88-EADE-4F20-8686-A4F5F2E41F8D}|WebsiteBanApple\\WebsiteBanApple.csproj|c:\\users\\phamb\\source\\repos\\lab56\\websitebanapple\\migrations\\20240324090846_addidentitycore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7A2F2A88-EADE-4F20-8686-A4F5F2E41F8D}|WebsiteBanApple\\WebsiteBanApple.csproj|solutionrelative:websitebanapple\\migrations\\20240324090846_addidentitycore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7A2F2A88-EADE-4F20-8686-A4F5F2E41F8D}|WebsiteBanApple\\WebsiteBanApple.csproj|c:\\users\\phamb\\downloads\\lab345-master\\websitebanapple\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7A2F2A88-EADE-4F20-8686-A4F5F2E41F8D}|WebsiteBanApple\\WebsiteBanApple.csproj|c:\\users\\phamb\\source\\repos\\lab56\\websitebanapple\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7A2F2A88-EADE-4F20-8686-A4F5F2E41F8D}|WebsiteBanApple\\WebsiteBanApple.csproj|solutionrelative:websitebanapple\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -55,35 +71,71 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\phamb\\Downloads\\Lab345-master\\WebsiteBanApple\\Program.cs",
-              "RelativeDocumentMoniker": "WebsiteBanApple\\Program.cs",
-              "ToolTip": "C:\\Users\\phamb\\Downloads\\Lab345-master\\WebsiteBanApple\\Program.cs",
-              "RelativeToolTip": "WebsiteBanApple\\Program.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAAABEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-24T09:18:10.273Z",
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\phamb\\source\\repos\\Lab56\\WebsiteBanApple\\Areas\\Admin\\Views\\Admin\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebsiteBanApple\\Areas\\Admin\\Views\\Admin\\Create.cshtml",
+              "ToolTip": "C:\\Users\\phamb\\source\\repos\\Lab56\\WebsiteBanApple\\Areas\\Admin\\Views\\Admin\\Create.cshtml",
+              "RelativeToolTip": "WebsiteBanApple\\Areas\\Admin\\Views\\Admin\\Create.cshtml",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAABcAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-03T13:23:37.275Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Register.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\phamb\\Downloads\\Lab345-master\\WebsiteBanApple\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
-              "RelativeDocumentMoniker": "WebsiteBanApple\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
-              "ToolTip": "C:\\Users\\phamb\\Downloads\\Lab345-master\\WebsiteBanApple\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
-              "RelativeToolTip": "WebsiteBanApple\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
-              "ViewState": "AQIAAHEAAAAAAAAAAAAwwHcAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-24T09:30:21.773Z"
+              "DocumentIndex": 3,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\phamb\\source\\repos\\Lab56\\WebsiteBanApple\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "WebsiteBanApple\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\phamb\\source\\repos\\Lab56\\WebsiteBanApple\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "WebsiteBanApple\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAIwBAAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-03T12:20:18.027Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
+              "Title": "_LayoutAdmin.cshtml",
+              "DocumentMoniker": "C:\\Users\\phamb\\source\\repos\\Lab56\\WebsiteBanApple\\Areas\\Admin\\Views\\shared\\_LayoutAdmin.cshtml",
+              "RelativeDocumentMoniker": "WebsiteBanApple\\Areas\\Admin\\Views\\shared\\_LayoutAdmin.cshtml",
+              "ToolTip": "C:\\Users\\phamb\\source\\repos\\Lab56\\WebsiteBanApple\\Areas\\Admin\\Views\\shared\\_LayoutAdmin.cshtml",
+              "RelativeToolTip": "WebsiteBanApple\\Areas\\Admin\\Views\\shared\\_LayoutAdmin.cshtml",
+              "ViewState": "AQIAAKMBAAAAAAAAAAAAALEBAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-03T12:10:04.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\phamb\\source\\repos\\Lab56\\WebsiteBanApple\\appsettings.json",
+              "RelativeDocumentMoniker": "WebsiteBanApple\\appsettings.json",
+              "ToolTip": "C:\\Users\\phamb\\source\\repos\\Lab56\\WebsiteBanApple\\appsettings.json",
+              "RelativeToolTip": "WebsiteBanApple\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-03T12:01:48.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\phamb\\source\\repos\\Lab56\\WebsiteBanApple\\Program.cs",
+              "RelativeDocumentMoniker": "WebsiteBanApple\\Program.cs",
+              "ToolTip": "C:\\Users\\phamb\\source\\repos\\Lab56\\WebsiteBanApple\\Program.cs",
+              "RelativeToolTip": "WebsiteBanApple\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T09:18:10.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Register.cshtml",
-              "DocumentMoniker": "C:\\Users\\phamb\\Downloads\\Lab345-master\\WebsiteBanApple\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\phamb\\source\\repos\\Lab56\\WebsiteBanApple\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
               "RelativeDocumentMoniker": "WebsiteBanApple\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "ToolTip": "C:\\Users\\phamb\\Downloads\\Lab345-master\\WebsiteBanApple\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\phamb\\source\\repos\\Lab56\\WebsiteBanApple\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
               "RelativeToolTip": "WebsiteBanApple\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -91,11 +143,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "20240324092654_AddFullNameToUserIdentity.cs",
-              "DocumentMoniker": "C:\\Users\\phamb\\Downloads\\Lab345-master\\WebsiteBanApple\\Migrations\\20240324092654_AddFullNameToUserIdentity.cs",
+              "DocumentMoniker": "C:\\Users\\phamb\\source\\repos\\Lab56\\WebsiteBanApple\\Migrations\\20240324092654_AddFullNameToUserIdentity.cs",
               "RelativeDocumentMoniker": "WebsiteBanApple\\Migrations\\20240324092654_AddFullNameToUserIdentity.cs",
-              "ToolTip": "C:\\Users\\phamb\\Downloads\\Lab345-master\\WebsiteBanApple\\Migrations\\20240324092654_AddFullNameToUserIdentity.cs",
+              "ToolTip": "C:\\Users\\phamb\\source\\repos\\Lab56\\WebsiteBanApple\\Migrations\\20240324092654_AddFullNameToUserIdentity.cs",
               "RelativeToolTip": "WebsiteBanApple\\Migrations\\20240324092654_AddFullNameToUserIdentity.cs",
               "ViewState": "AQIAAAgAAAAAAAAAAAAAABIAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -103,11 +155,35 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\phamb\\source\\repos\\Lab56\\WebsiteBanApple\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebsiteBanApple\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\phamb\\source\\repos\\Lab56\\WebsiteBanApple\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebsiteBanApple\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAACYAAAAAAAAAAAAAADIAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-24T09:15:28.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\phamb\\source\\repos\\Lab56\\WebsiteBanApple\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "WebsiteBanApple\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\phamb\\source\\repos\\Lab56\\WebsiteBanApple\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "WebsiteBanApple\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AQIAAHEAAAAAAAAAAAAwwHcAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T09:30:21.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\phamb\\Downloads\\Lab345-master\\WebsiteBanApple\\Data\\ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\phamb\\source\\repos\\Lab56\\WebsiteBanApple\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "WebsiteBanApple\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\phamb\\Downloads\\Lab345-master\\WebsiteBanApple\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\phamb\\source\\repos\\Lab56\\WebsiteBanApple\\Data\\ApplicationDbContext.cs",
               "RelativeToolTip": "WebsiteBanApple\\Data\\ApplicationDbContext.cs",
               "ViewState": "AQIAAAIAAAAAAAAAAAAswAcAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -115,11 +191,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "ScaffoldingReadMe.txt",
-              "DocumentMoniker": "C:\\Users\\phamb\\Downloads\\Lab345-master\\WebsiteBanApple\\ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\phamb\\source\\repos\\Lab56\\WebsiteBanApple\\ScaffoldingReadMe.txt",
               "RelativeDocumentMoniker": "WebsiteBanApple\\ScaffoldingReadMe.txt",
-              "ToolTip": "C:\\Users\\phamb\\Downloads\\Lab345-master\\WebsiteBanApple\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\phamb\\source\\repos\\Lab56\\WebsiteBanApple\\ScaffoldingReadMe.txt",
               "RelativeToolTip": "WebsiteBanApple\\ScaffoldingReadMe.txt",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
@@ -127,11 +203,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "ApplicationUser.cs",
-              "DocumentMoniker": "C:\\Users\\phamb\\Downloads\\Lab345-master\\WebsiteBanApple\\Models\\ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\phamb\\source\\repos\\Lab56\\WebsiteBanApple\\Models\\ApplicationUser.cs",
               "RelativeDocumentMoniker": "WebsiteBanApple\\Models\\ApplicationUser.cs",
-              "ToolTip": "C:\\Users\\phamb\\Downloads\\Lab345-master\\WebsiteBanApple\\Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\phamb\\source\\repos\\Lab56\\WebsiteBanApple\\Models\\ApplicationUser.cs",
               "RelativeToolTip": "WebsiteBanApple\\Models\\ApplicationUser.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -139,23 +215,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\phamb\\Downloads\\Lab345-master\\WebsiteBanApple\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "WebsiteBanApple\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\phamb\\Downloads\\Lab345-master\\WebsiteBanApple\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "WebsiteBanApple\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAAB0AAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-24T09:15:28.865Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "20240324090846_AddIdentityCore.cs",
-              "DocumentMoniker": "C:\\Users\\phamb\\Downloads\\Lab345-master\\WebsiteBanApple\\Migrations\\20240324090846_AddIdentityCore.cs",
+              "DocumentMoniker": "C:\\Users\\phamb\\source\\repos\\Lab56\\WebsiteBanApple\\Migrations\\20240324090846_AddIdentityCore.cs",
               "RelativeDocumentMoniker": "WebsiteBanApple\\Migrations\\20240324090846_AddIdentityCore.cs",
-              "ToolTip": "C:\\Users\\phamb\\Downloads\\Lab345-master\\WebsiteBanApple\\Migrations\\20240324090846_AddIdentityCore.cs",
+              "ToolTip": "C:\\Users\\phamb\\source\\repos\\Lab56\\WebsiteBanApple\\Migrations\\20240324090846_AddIdentityCore.cs",
               "RelativeToolTip": "WebsiteBanApple\\Migrations\\20240324090846_AddIdentityCore.cs",
               "ViewState": "AQIAACUAAAAAAAAAAAAQwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -163,11 +227,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\phamb\\Downloads\\Lab345-master\\WebsiteBanApple\\Controllers\\ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\phamb\\source\\repos\\Lab56\\WebsiteBanApple\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "WebsiteBanApple\\Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\phamb\\Downloads\\Lab345-master\\WebsiteBanApple\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\phamb\\source\\repos\\Lab56\\WebsiteBanApple\\Controllers\\ProductController.cs",
               "RelativeToolTip": "WebsiteBanApple\\Controllers\\ProductController.cs",
               "ViewState": "AQIAAEwAAAAAAAAAAAAAAFIAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

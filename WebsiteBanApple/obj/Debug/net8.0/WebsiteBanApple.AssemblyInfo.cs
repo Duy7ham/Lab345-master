@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebsiteBanApple")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d46b6a016a8a4db4fca12766d662ecaf7bb58863")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c925b192b41e022be42db94ced913498da692964")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebsiteBanApple")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebsiteBanApple")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
